@@ -6,6 +6,8 @@ The code is inspired from codebasics Youtube channel
 
 The dataset used is PlantVillage dataset from kaggle (For demonstration purpose only the pepper bell and potato part is used)
 
+![image](https://github.com/user-attachments/assets/349c2578-35e7-42fc-8cbd-02b6aa7fc38f)
+
 ## ⚡Future Work
 
 ### ✈️ Integration with Drone Technology
