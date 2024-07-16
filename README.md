@@ -1,6 +1,7 @@
 # 🌿 Crop-Disease-Prediction
 
 This repository contains code to detect whether a plant is diseased or not using a single leaf image. The project utilizes machine learning to analyze leaf images and classify them as healthy or diseased.
+
 The code is inspired from codebasics Youtube channel
 
 The dataset used is PlantVillage dataset from kaggle (For demonstration purpose only the pepper bell and potato part is used)
